@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Narci62
 - 👀 I’m interested in the web geeks
-- 🌱 I’m currently learning laravel framework
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on the web develloppment
 - 📫 How to reach me ...narcimendes2@gmail.com
 
